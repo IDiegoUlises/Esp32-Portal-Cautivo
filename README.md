@@ -1,6 +1,6 @@
 # Esp32-Portal-Cautivo
 
-### Codigo
+### Codigo que funciona
 ```c++
 #include <DNSServer.h>
 #include <WiFi.h>
