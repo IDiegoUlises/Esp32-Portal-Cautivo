@@ -130,7 +130,8 @@ void loop()
   }
 }
 ```
-
+### La pagina web que se abrira
 <img src="https://github.com/IDiegoUlises/Esp32-Portal-Cautivo/blob/main/Imagenes/IMG_20230714_215451.jpg" width="400" height="800" />
 
-
+### Debug del puerto serial del Esp32
+<img src="https://github.com/IDiegoUlises/Esp32-Portal-Cautivo/blob/main/Imagenes/Debug-Del-Portal-Cautivo.jpg" />
