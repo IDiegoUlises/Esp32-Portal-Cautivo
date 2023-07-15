@@ -128,3 +128,7 @@ void loop()
   }
 }
 ```
+
+<img src="https://github.com/IDiegoUlises/Esp32-Portal-Cautivo/blob/main/Imagenes/IMG_20230714_215451.jpg" width="400" height="800" />
+
+
