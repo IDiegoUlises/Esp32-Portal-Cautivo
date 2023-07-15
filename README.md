@@ -1,6 +1,7 @@
 # Esp32 Portal Cautivo
 
 <img src="https://github.com/IDiegoUlises/Esp32-Portal-Cautivo/blob/main/Imagenes/IMG_20230714_215346.jpg" width="400" height="800" />
+
 * Al conectarse a la red WiFi abrira automaticamente el portal cautivo
 
 ### Codigo
